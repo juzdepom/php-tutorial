@@ -3,7 +3,7 @@ Based off of this Youtube PHP [Tutorial](https://www.youtube.com/watch?v=ZdP0KM4
 Note: in order for this project to run, need to have installed and started server from Mamp...
 
 <html>
-    <img src="./screenshots/mamp.png" width="200" height="200" />
+    <img src="./screenshots/mamp.png" width="500" />
 </html>
 Have the folder installed in this Mamp folder in Applications...
 ![Folder](./screenshots/finder.png)
