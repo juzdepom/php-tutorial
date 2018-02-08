@@ -1,4 +1,4 @@
-Based off of this Youtube PHP [Tutorial](https://www.youtube.com/watch?v=ZdP0KM49IVk) by Jake Write
+Based off of this Youtube PHP [Tutorial](https://www.youtube.com/watch?v=ZdP0KM49IVk) by Jake Wright
 
 
 
